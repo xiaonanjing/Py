@@ -1,2 +1,1 @@
-# Py
-Lerning
+print("Hello Word!")
